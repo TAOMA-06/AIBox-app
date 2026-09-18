@@ -63,6 +63,7 @@ AIBox 把所有模型放进同一条时间线——**一条会话，中途可换
 
 | 渠道 | 状态 |
 |:--|:--|
+| Android 预览包 | **[⬇ AIBox-1.2.0-debug.apk](https://github.com/TAOMA-06/AIBox-app/releases/download/v1.2.0/AIBox-1.2.0-debug.apk)**（debug 签名，需允许「未知来源」） |
 | TestFlight 公开测试 | 即将开放 — 关注 [Releases](https://github.com/TAOMA-06/AIBox-app/releases) |
 | App Store | 审核筹备中 |
 
