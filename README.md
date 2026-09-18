@@ -10,7 +10,7 @@
 <br>
 
 [![iOS](https://img.shields.io/badge/iOS-18.0+-000000?style=flat-square&logo=apple&logoColor=white)](https://github.com/TAOMA-06/AIBox-app/releases)
-[![Version](https://img.shields.io/badge/version-1.1.0-0A84FF?style=flat-square)](https://github.com/TAOMA-06/AIBox-app/releases)
+[![Version](https://img.shields.io/badge/version-1.2.0-0A84FF?style=flat-square)](https://github.com/TAOMA-06/AIBox-app/releases)
 [![Swift](https://img.shields.io/badge/Swift_6-SwiftUI_·_SwiftData-F05138?style=flat-square&logo=swift&logoColor=white)](https://github.com/TAOMA-06/AIBox-app/releases)
 [![Backend](https://img.shields.io/badge/backend-none-34C759?style=flat-square)](https://github.com/TAOMA-06/AIBox-app/releases)
 [![Analytics](https://img.shields.io/badge/tracking-none-34C759?style=flat-square)](https://github.com/TAOMA-06/AIBox-app/releases)
